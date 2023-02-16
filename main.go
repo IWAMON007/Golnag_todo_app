@@ -1,6 +1,9 @@
 package main
 
 import (
+	"echo-get-started/model"
+	"echo-get-started/router"
+
 	"github.com/labstack/echo/v4"
 )
 

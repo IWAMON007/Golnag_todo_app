@@ -5,8 +5,6 @@ import (
 
 	"github.com/labstack/echo/v4/middleware"
 
-	_ "net/http"
-
 	"github.com/labstack/echo/v4"
 )
 
